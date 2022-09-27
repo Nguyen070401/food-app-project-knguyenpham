@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/food-app-project-knguyenpham/static/css/main.52fabb6d.css",
-    "main.js": "/food-app-project-knguyenpham/static/js/main.3697a36a.js",
+    "main.js": "/food-app-project-knguyenpham/static/js/main.d71beb0c.js",
     "static/media/food.png": "/food-app-project-knguyenpham/static/media/food.755f826548b56ec254d0.png",
     "static/media/groceries.png": "/food-app-project-knguyenpham/static/media/groceries.db60123d47b394a1469a.png",
     "static/media/demonstration-group.png": "/food-app-project-knguyenpham/static/media/demonstration-group.e4f8f1117444475c4566.png",
     "static/media/logo.png": "/food-app-project-knguyenpham/static/media/logo.95be5655db8fe65a6e13.png",
     "index.html": "/food-app-project-knguyenpham/index.html",
     "main.52fabb6d.css.map": "/food-app-project-knguyenpham/static/css/main.52fabb6d.css.map",
-    "main.3697a36a.js.map": "/food-app-project-knguyenpham/static/js/main.3697a36a.js.map"
+    "main.d71beb0c.js.map": "/food-app-project-knguyenpham/static/js/main.d71beb0c.js.map"
   },
   "entrypoints": [
     "static/css/main.52fabb6d.css",
-    "static/js/main.3697a36a.js"
+    "static/js/main.d71beb0c.js"
   ]
 }
